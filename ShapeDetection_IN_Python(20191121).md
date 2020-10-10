@@ -42,15 +42,15 @@ for cont in contours:
     approx = cv2.approxPolyDP(cont, cv2.arcLength(cont,True)*0.02, True)
     corner= len(approx)
 
-    if corner== 3: setLabel(img,cont,'3')
+    if corner== 3: setLabel(img,cont,'Triangle')
 
-    elif corner== 4: setLabel(img, cont, '4')
+    elif corner== 4: setLabel(img, cont, 'Ractangle')
 
-    elif corner== 5: setLabel(img,cont,'5')
+    elif corner== 5: setLabel(img,cont,'Pentagon')
 
-    elif corner== 6: setLabel(img,cont,'6')
+    elif corner== 6: setLabel(img,cont,'Hexagon')
 
-    else : setLabel(img,cont,'0')
+    else : setLabel(img,cont,'Circle')
 
     cv2.imshow('img',img)
     cv2.waitKey(0)
@@ -58,5 +58,6 @@ for cont in contours:
 ```
 -------------
 3. 결과 영상
-![캡처](https://user-images.githubusercontent.com/50646904/95661596-8d012200-0b6b-11eb-8f8d-c346c06814f0.PNG)
+![캡처](https://user-images.githubusercontent.com/50646904/95661689-203a5780-0b6c-11eb-8724-87fafc84ec1a.PNG)
+
 -------------
