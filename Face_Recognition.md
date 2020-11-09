@@ -1,7 +1,8 @@
 Lab: Face Recognition in python
 =======================
 ##1. 인식 사진
-![Uploading 인식.PNG…]()
+![인식](https://user-images.githubusercontent.com/50646904/98507981-ffb40900-22a1-11eb-917c-a108f8f6bf72.PNG)
+
 
 ##2. 소감
 파이썬과 다양한 패키지를 이용하여 얼굴인식을 단 몇 줄의 코드로 할 수 있다는 사실이 놀랍게 느껴졌습니다.     
