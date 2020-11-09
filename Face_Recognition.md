@@ -1,6 +1,7 @@
 Lab: Face Recognition in python
 =======================
 ##1. 인식 사진
+
 ![인식](https://user-images.githubusercontent.com/50646904/98507981-ffb40900-22a1-11eb-917c-a108f8f6bf72.PNG)
 
 
