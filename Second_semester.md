@@ -163,4 +163,16 @@ sigmoid: 결과 값에 따라 참 또는 거짓을 나타내는 함수입니다.
 
 ### dropout layer
 Fully conneted 네트워크와 softmax 함수 중간에서 오버피팅을 막기 위해 사용되는 layer입니다.   
-뉴럴 네트워크가 학습중일때 랜덤하게 뉴런을 꺼서 학습을 방해하여 학습이 학습용 데이터에 치우치는 현상을 방지합니     
+뉴럴 네트워크가 학습중일때 랜덤하게 뉴런을 꺼서 학습을 방해하여 학습이 학습용 데이터에 치우치는 현상을 방지합니다.    
+
+
+참고
+=============
+https://ukayzm.github.io/facial-landmarks/
+https://www.tensorflow.org/js/tutorials/training/handwritten_digit_cnn
+https://tykimos.github.io/2018/09/30/Hello_Fashion_MNIST/
+https://ssongnote.tistory.com/13
+https://bcho.tistory.com/1149
+https://wikidocs.net/32105
+https://dsbook.tistory.com/14?category=761052
+https://rosinality.github.io/2017/05/%ED%8A%B9%EC%A7%95-%EC%B6%94%EC%B6%9Cfeature-extraction%EA%B3%BC-%EB%94%A5-%EB%9F%AC%EB%8B%9D/
