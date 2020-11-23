@@ -168,11 +168,11 @@ Fully conneted 네트워크와 softmax 함수 중간에서 오버피팅을 막�
 
 참고
 =============
-https://ukayzm.github.io/facial-landmarks/
-https://www.tensorflow.org/js/tutorials/training/handwritten_digit_cnn
-https://tykimos.github.io/2018/09/30/Hello_Fashion_MNIST/
-https://ssongnote.tistory.com/13
-https://bcho.tistory.com/1149
-https://wikidocs.net/32105
-https://dsbook.tistory.com/14?category=761052
-https://rosinality.github.io/2017/05/%ED%8A%B9%EC%A7%95-%EC%B6%94%EC%B6%9Cfeature-extraction%EA%B3%BC-%EB%94%A5-%EB%9F%AC%EB%8B%9D/
+https://ukayzm.github.io/facial-landmarks/   
+https://www.tensorflow.org/js/tutorials/training/handwritten_digit_cnn   
+https://tykimos.github.io/2018/09/30/Hello_Fashion_MNIST/   
+https://ssongnote.tistory.com/13   
+https://bcho.tistory.com/1149   
+https://wikidocs.net/32105   
+https://dsbook.tistory.com/14?category=761052   
+https://rosinality.github.io/2017/05/%ED%8A%B9%EC%A7%95-%EC%B6%94%EC%B6%9Cfeature-extraction%EA%B3%BC-%EB%94%A5-%EB%9F%AC%EB%8B%9D/   
